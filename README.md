@@ -23,3 +23,5 @@ By the end you’ll be able to:
 # courses:
 
 * [Neural Networks and Deep Learning](https://github.com/rezafallahpour/Deep-Learning-Specialization/tree/9932d0ca6c9aea2984ac4f87569e2b097e000d72/Neural%20Networks%20and%20Deep%20Learning)
+
+* [Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization](https://github.com/rezafallahpour/Deep-Learning-Specialization/tree/deaa3f38c6f25bf92bca40156341f9201f2ecf50/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
