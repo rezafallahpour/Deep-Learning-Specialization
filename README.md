@@ -28,4 +28,4 @@ By the end you’ll be able to:
 
 * [Convolutional Neural Networks](https://github.com/rezafallahpour/Deep-Learning-Specialization/tree/13208656e662ef8980460542d468895970d08de1/Convolutional%20Neural%20Networks)
 
-* [Sequence Models](https://github.com/rezafallahpour/Deep-Learning-Specialization/tree/13208656e662ef8980460542d468895970d08de1/Convolutional%20Neural%20Networks)
+* [Sequence Models](https://github.com/rezafallahpour/Deep-Learning-Specialization/tree/3ca3cdd9fa478f01b3754c12ab8c711ae265808c/Sequence%20Models)
