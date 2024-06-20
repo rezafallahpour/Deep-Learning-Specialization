@@ -27,3 +27,5 @@ By the end you’ll be able to:
 * [Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization](https://github.com/rezafallahpour/Deep-Learning-Specialization/tree/deaa3f38c6f25bf92bca40156341f9201f2ecf50/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
 
 * [Convolutional Neural Networks](https://github.com/rezafallahpour/Deep-Learning-Specialization/tree/13208656e662ef8980460542d468895970d08de1/Convolutional%20Neural%20Networks)
+
+* * [Convolutional Neural Networks](https://github.com/rezafallahpour/Deep-Learning-Specialization/tree/13208656e662ef8980460542d468895970d08de1/Convolutional%20Neural%20Networks)
